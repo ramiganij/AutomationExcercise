@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Exceler project">
+<test name="Automation Excercise">
+<classes>
+<class name="testNgFramework.RegisterUser"/>
+<class name="testNgFramework.LoginValid"/>
+<class name="testNgFramework.LoginInvalid"/>
+<class name="testNgFramework.LogoutUser"/>
+<class name="testNgFramework.RegisterUserWithExisting"/>
+<class name="testNgFramework.ContactUs"/>
+<class name="testNgFramework.TestCases"/>
+<class name="testNgFramework.AllProducts"/>
+<class name="testNgFramework.SearchProduct"/>
+<class name="testNgFramework.SubscriptionHome"/>
+<class name="testNgFramework.SubscriptionCart"/>
+<class name="testNgFramework.AddToCart"/>
+<class name="testNgFramework.ProductQuantity"/>
+<class name="testNgFramework.PlaceOrder"/>
+
+
+
+
+</classes>
+
+
+
+</test>
+
+
+
+</suite>
